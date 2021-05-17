@@ -11,6 +11,7 @@ Download the raw file and run it. Best to be placed on the desktop as it will la
 The script automatically launches VSCode with the injection to make it work properly. All current user settings should be maintained. It installs an instance of PowerShell to enable a programmer to execute their code when required instead of using idle.
 
 ## Support
+This script is designed to work at SHS and is not guaranteed to work.
 Any issues contact: [contact@danlee.uk](mailto:contact@danlee.uk)
 
 *Source code coming soon*

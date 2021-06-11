@@ -10,11 +10,11 @@ Download the raw file and run it. Best to be placed on the desktop.
 
 This script does many fun features such as:
 
-*Google Driver Installer
-*Software Installer
-*Powershell Installer
-*Windows Theming 
-*Custom desktop wallpaper
+* Google Driver Installer
+* Software Installer
+* Powershell Installer
+* Windows Theming 
+* Custom desktop wallpaper
 
 ## Support
 This script is designed to work at SHS and is not guaranteed to work.
